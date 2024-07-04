@@ -1,5 +1,5 @@
 # Vending Machine 
-
+![sample](/sample_run.PNG)
 ## Setup
 
 - Adjust the value in inventory.csv (how much products available) & cash_reserve.csv (how much cash available for repayment) accordingly
@@ -13,7 +13,7 @@
   - inventory.csv
   - sales.csv
   - cash_reserve.csv
-- Run the docker image or 
+- Run the docker image or setup locally
 
 ### Prerequisites
 - Docker
