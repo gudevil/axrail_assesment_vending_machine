@@ -67,4 +67,5 @@ Some other consideration that I did not get to implement is to include fields li
 - temperature
 - time duration every time user try to purchase
 - cancelled transaction
+
 Where I believe we can further do EDA and if possible apply other ML models
