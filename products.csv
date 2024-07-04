@@ -1,0 +1,11 @@
+product_id,product_name,price,last_time_stock
+P001,coke,2,2024-07-01
+P002,pepsi,2,2024-07-01
+P003,mountain_dew,3,2024-07-01
+P004,sprite,2,2024-07-01
+P005,haus_boom,2,2024-07-01
+P006,drinking_water,1,2024-07-01
+P007,root_beer,3,2024-07-01
+P008,red_bull,1,2024-07-01
+P009,monster,2,2024-07-01
+P010,7up,2,2024-07-01
